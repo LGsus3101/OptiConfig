@@ -75,7 +75,7 @@ namespace Aplicacion_de_Identificacion
             if (hibrido.Any(p => gpoInterno.StartsWith(p)) &&
                 (sufijo.EndsWith("F") || sufijo.EndsWith("M")))
                 return "Hibrido";
-
+            
             // Pigtail
             if (pigtail.Any(p => gpoInterno.StartsWith(p)) &&
                 (sufijo.EndsWith("F") || sufijo.EndsWith("M")))
