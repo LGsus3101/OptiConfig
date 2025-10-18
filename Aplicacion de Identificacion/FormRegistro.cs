@@ -21,6 +21,7 @@ namespace Aplicacion_de_Identificacion
         private void FormRegistro_Load(object sender, EventArgs e)
         {
             PicBoxLogo.Image = Properties.Resources.Commscope_Logo_2011;
+            PicBoxLogo.SizeMode = PictureBoxSizeMode.StretchImage;
             BoxImage.SizeMode = PictureBoxSizeMode.StretchImage;
         }
 
@@ -79,7 +80,7 @@ namespace Aplicacion_de_Identificacion
             // Pigtail
             if (pigtail.Any(p => gpoInterno.StartsWith(p)) &&
                 (sufijo.EndsWith("F") || sufijo.EndsWith("M")))
-                return "Pigtail";
+                return "Hibrido";
 
             // Spool FR
             if (sufijo.EndsWith("FR"))

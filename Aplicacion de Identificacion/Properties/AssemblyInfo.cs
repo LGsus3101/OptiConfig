@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // La información general de un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie estos valores de atributo para modificar la información
 // asociada con un ensamblado.
-[assembly: AssemblyTitle("Aplicacion de Identificacion")]
+[assembly: AssemblyTitle("CoilPoint")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("CommScope")]
-[assembly: AssemblyProduct("Aplicacion de Identificacion")]
+[assembly: AssemblyProduct("Aplicacion_de_Identificacion")]
 [assembly: AssemblyCopyright("Copyright © CommScope 2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

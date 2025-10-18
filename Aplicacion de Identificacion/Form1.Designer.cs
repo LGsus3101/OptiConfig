@@ -40,18 +40,18 @@
             this.BtnAppRegistro.Name = "BtnAppRegistro";
             this.BtnAppRegistro.Size = new System.Drawing.Size(189, 67);
             this.BtnAppRegistro.TabIndex = 0;
-            this.BtnAppRegistro.Text = "Guia de punta de Desforre";
+            this.BtnAppRegistro.Text = "Desforre";
             this.BtnAppRegistro.UseVisualStyleBackColor = true;
             this.BtnAppRegistro.Click += new System.EventHandler(this.BtnAppRegistro_Click);
             // 
             // BtnAppProdigy
             // 
             this.BtnAppProdigy.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BtnAppProdigy.Location = new System.Drawing.Point(31, 194);
+            this.BtnAppProdigy.Location = new System.Drawing.Point(44, 194);
             this.BtnAppProdigy.Name = "BtnAppProdigy";
-            this.BtnAppProdigy.Size = new System.Drawing.Size(249, 90);
+            this.BtnAppProdigy.Size = new System.Drawing.Size(223, 70);
             this.BtnAppProdigy.TabIndex = 1;
-            this.BtnAppProdigy.Text = "Identificacion de Conector\r\n(Prodigy)";
+            this.BtnAppProdigy.Text = "Prueba de vacio y agua";
             this.BtnAppProdigy.UseVisualStyleBackColor = true;
             this.BtnAppProdigy.Click += new System.EventHandler(this.BtnAppProdigy_Click);
             // 

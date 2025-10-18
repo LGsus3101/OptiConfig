@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\JSEGOVIAGA\\Desktop\\Visual\\Studio Pro\\Aplicacion de Identificacion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A994E8E9-E1FF-419D-BDD8-B618AB0ACDB8}|Aplicacion de Identificacion\\Aplicacion de Identificacion.csproj|C:\\Users\\JSEGOVIAGA\\Desktop\\Visual\\Studio Pro\\Aplicacion de Identificacion\\aplicacion de identificacion\\formregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A994E8E9-E1FF-419D-BDD8-B618AB0ACDB8}|Aplicacion de Identificacion\\Aplicacion de Identificacion.csproj|solutionrelative:aplicacion de identificacion\\formregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A994E8E9-E1FF-419D-BDD8-B618AB0ACDB8}|Aplicacion de Identificacion\\Aplicacion de Identificacion.csproj|c:\\users\\jsegoviaga\\desktop\\visual\\studio pro\\aplicacion de identificacion\\aplicacion de identificacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A994E8E9-E1FF-419D-BDD8-B618AB0ACDB8}|Aplicacion de Identificacion\\Aplicacion de Identificacion.csproj|solutionrelative:aplicacion de identificacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A994E8E9-E1FF-419D-BDD8-B618AB0ACDB8}|Aplicacion de Identificacion\\Aplicacion de Identificacion.csproj|C:\\Users\\JSEGOVIAGA\\Desktop\\Visual\\Studio Pro\\Aplicacion de Identificacion\\aplicacion de identificacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A994E8E9-E1FF-419D-BDD8-B618AB0ACDB8}|Aplicacion de Identificacion\\Aplicacion de Identificacion.csproj|solutionrelative:aplicacion de identificacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A994E8E9-E1FF-419D-BDD8-B618AB0ACDB8}|Aplicacion de Identificacion\\Aplicacion de Identificacion.csproj|C:\\Users\\JSEGOVIAGA\\Desktop\\Visual\\Studio Pro\\Aplicacion de Identificacion\\aplicacion de identificacion\\formprodigy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A994E8E9-E1FF-419D-BDD8-B618AB0ACDB8}|Aplicacion de Identificacion\\Aplicacion de Identificacion.csproj|solutionrelative:aplicacion de identificacion\\formprodigy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A994E8E9-E1FF-419D-BDD8-B618AB0ACDB8}|Aplicacion de Identificacion\\Aplicacion de Identificacion.csproj|C:\\Users\\JSEGOVIAGA\\Desktop\\Visual\\Studio Pro\\Aplicacion de Identificacion\\aplicacion de identificacion\\formprodigy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A994E8E9-E1FF-419D-BDD8-B618AB0ACDB8}|Aplicacion de Identificacion\\Aplicacion de Identificacion.csproj|solutionrelative:aplicacion de identificacion\\formprodigy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A994E8E9-E1FF-419D-BDD8-B618AB0ACDB8}|Aplicacion de Identificacion\\Aplicacion de Identificacion.csproj|C:\\Users\\JSEGOVIAGA\\Desktop\\Visual\\Studio Pro\\Aplicacion de Identificacion\\aplicacion de identificacion\\formregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A994E8E9-E1FF-419D-BDD8-B618AB0ACDB8}|Aplicacion de Identificacion\\Aplicacion de Identificacion.csproj|solutionrelative:aplicacion de identificacion\\formregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A994E8E9-E1FF-419D-BDD8-B618AB0ACDB8}|Aplicacion de Identificacion\\Aplicacion de Identificacion.csproj|C:\\Users\\JSEGOVIAGA\\Desktop\\Visual\\Studio Pro\\Aplicacion de Identificacion\\aplicacion de identificacion\\formregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A994E8E9-E1FF-419D-BDD8-B618AB0ACDB8}|Aplicacion de Identificacion\\Aplicacion de Identificacion.csproj|solutionrelative:aplicacion de identificacion\\formregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,64 +50,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\JSEGOVIAGA\\Desktop\\Visual\\Studio Pro\\Aplicacion de Identificacion\\Aplicacion de Identificacion\\Form1.cs",
-              "RelativeDocumentMoniker": "Aplicacion de Identificacion\\Form1.cs",
-              "ToolTip": "C:\\Users\\JSEGOVIAGA\\Desktop\\Visual\\Studio Pro\\Aplicacion de Identificacion\\Aplicacion de Identificacion\\Form1.cs",
-              "RelativeToolTip": "Aplicacion de Identificacion\\Form1.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAqwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T05:55:39.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FormRegistro.cs",
-              "DocumentMoniker": "C:\\Users\\JSEGOVIAGA\\Desktop\\Visual\\Studio Pro\\Aplicacion de Identificacion\\Aplicacion de Identificacion\\FormRegistro.cs",
-              "RelativeDocumentMoniker": "Aplicacion de Identificacion\\FormRegistro.cs",
-              "ToolTip": "C:\\Users\\JSEGOVIAGA\\Desktop\\Visual\\Studio Pro\\Aplicacion de Identificacion\\Aplicacion de Identificacion\\FormRegistro.cs",
-              "RelativeToolTip": "Aplicacion de Identificacion\\FormRegistro.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAADwv0kAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T20:36:01.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "FormProdigy.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\JSEGOVIAGA\\Desktop\\Visual\\Studio Pro\\Aplicacion de Identificacion\\Aplicacion de Identificacion\\FormProdigy.cs",
               "RelativeDocumentMoniker": "Aplicacion de Identificacion\\FormProdigy.cs",
               "ToolTip": "C:\\Users\\JSEGOVIAGA\\Desktop\\Visual\\Studio Pro\\Aplicacion de Identificacion\\Aplicacion de Identificacion\\FormProdigy.cs [Dise\u00F1o]",
               "RelativeToolTip": "Aplicacion de Identificacion\\FormProdigy.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T01:19:18.733Z"
+              "WhenOpened": "2025-10-18T00:47:25.823Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "FormRegistro.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\JSEGOVIAGA\\Desktop\\Visual\\Studio Pro\\Aplicacion de Identificacion\\Aplicacion de Identificacion\\FormRegistro.cs",
               "RelativeDocumentMoniker": "Aplicacion de Identificacion\\FormRegistro.cs",
               "ToolTip": "C:\\Users\\JSEGOVIAGA\\Desktop\\Visual\\Studio Pro\\Aplicacion de Identificacion\\Aplicacion de Identificacion\\FormRegistro.cs [Dise\u00F1o]",
               "RelativeToolTip": "Aplicacion de Identificacion\\FormRegistro.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T01:19:05.687Z",
+              "WhenOpened": "2025-10-18T00:38:54.726Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\JSEGOVIAGA\\Desktop\\Visual\\Studio Pro\\Aplicacion de Identificacion\\Aplicacion de Identificacion\\Form1.cs",
-              "RelativeDocumentMoniker": "Aplicacion de Identificacion\\Form1.cs",
-              "ToolTip": "C:\\Users\\JSEGOVIAGA\\Desktop\\Visual\\Studio Pro\\Aplicacion de Identificacion\\Aplicacion de Identificacion\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Aplicacion de Identificacion\\Form1.cs [Dise\u00F1o]",
+              "Title": "FormProdigy.cs",
+              "DocumentMoniker": "C:\\Users\\JSEGOVIAGA\\Desktop\\Visual\\Studio Pro\\Aplicacion de Identificacion\\Aplicacion de Identificacion\\FormProdigy.cs",
+              "RelativeDocumentMoniker": "Aplicacion de Identificacion\\FormProdigy.cs",
+              "ToolTip": "C:\\Users\\JSEGOVIAGA\\Desktop\\Visual\\Studio Pro\\Aplicacion de Identificacion\\Aplicacion de Identificacion\\FormProdigy.cs",
+              "RelativeToolTip": "Aplicacion de Identificacion\\FormProdigy.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T00:02:38.646Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-10-16T19:12:47.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormRegistro.cs",
+              "DocumentMoniker": "C:\\Users\\JSEGOVIAGA\\Desktop\\Visual\\Studio Pro\\Aplicacion de Identificacion\\Aplicacion de Identificacion\\FormRegistro.cs",
+              "RelativeDocumentMoniker": "Aplicacion de Identificacion\\FormRegistro.cs",
+              "ToolTip": "C:\\Users\\JSEGOVIAGA\\Desktop\\Visual\\Studio Pro\\Aplicacion de Identificacion\\Aplicacion de Identificacion\\FormRegistro.cs",
+              "RelativeToolTip": "Aplicacion de Identificacion\\FormRegistro.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T20:36:01.165Z",
+              "EditorCaption": ""
             }
           ]
         }

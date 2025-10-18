@@ -1,8 +1,8 @@
-C:\Users\JSEGOVIAGA\Desktop\Visual\Studio Pro\Aplicacion de Identificacion\Aplicacion de Identificacion\bin\Release\OptiConfig.exe.config
-C:\Users\JSEGOVIAGA\Desktop\Visual\Studio Pro\Aplicacion de Identificacion\Aplicacion de Identificacion\bin\Release\OptiConfig.exe.manifest
-C:\Users\JSEGOVIAGA\Desktop\Visual\Studio Pro\Aplicacion de Identificacion\Aplicacion de Identificacion\bin\Release\OptiConfig.application
-C:\Users\JSEGOVIAGA\Desktop\Visual\Studio Pro\Aplicacion de Identificacion\Aplicacion de Identificacion\bin\Release\OptiConfig.exe
-C:\Users\JSEGOVIAGA\Desktop\Visual\Studio Pro\Aplicacion de Identificacion\Aplicacion de Identificacion\bin\Release\OptiConfig.pdb
+C:\Users\JSEGOVIAGA\Desktop\Visual\Studio Pro\Aplicacion de Identificacion\Aplicacion de Identificacion\bin\Release\ScanFrame.exe.config
+C:\Users\JSEGOVIAGA\Desktop\Visual\Studio Pro\Aplicacion de Identificacion\Aplicacion de Identificacion\bin\Release\ScanFrame.exe.manifest
+C:\Users\JSEGOVIAGA\Desktop\Visual\Studio Pro\Aplicacion de Identificacion\Aplicacion de Identificacion\bin\Release\ScanFrame.application
+C:\Users\JSEGOVIAGA\Desktop\Visual\Studio Pro\Aplicacion de Identificacion\Aplicacion de Identificacion\bin\Release\ScanFrame.exe
+C:\Users\JSEGOVIAGA\Desktop\Visual\Studio Pro\Aplicacion de Identificacion\Aplicacion de Identificacion\bin\Release\ScanFrame.pdb
 C:\Users\JSEGOVIAGA\Desktop\Visual\Studio Pro\Aplicacion de Identificacion\Aplicacion de Identificacion\bin\Release\GraphQL.Client.Abstractions.dll
 C:\Users\JSEGOVIAGA\Desktop\Visual\Studio Pro\Aplicacion de Identificacion\Aplicacion de Identificacion\bin\Release\GraphQL.Client.Abstractions.Websocket.dll
 C:\Users\JSEGOVIAGA\Desktop\Visual\Studio Pro\Aplicacion de Identificacion\Aplicacion de Identificacion\bin\Release\GraphQL.Client.dll
@@ -43,9 +43,9 @@ C:\Users\JSEGOVIAGA\Desktop\Visual\Studio Pro\Aplicacion de Identificacion\Aplic
 C:\Users\JSEGOVIAGA\Desktop\Visual\Studio Pro\Aplicacion de Identificacion\Aplicacion de Identificacion\obj\Release\Aplicacion_de_Identificacion.Properties.Resources.resources
 C:\Users\JSEGOVIAGA\Desktop\Visual\Studio Pro\Aplicacion de Identificacion\Aplicacion de Identificacion\obj\Release\Aplicacion de Identificacion.csproj.GenerateResource.cache
 C:\Users\JSEGOVIAGA\Desktop\Visual\Studio Pro\Aplicacion de Identificacion\Aplicacion de Identificacion\obj\Release\Aplicacion de Identificacion.csproj.CoreCompileInputs.cache
-C:\Users\JSEGOVIAGA\Desktop\Visual\Studio Pro\Aplicacion de Identificacion\Aplicacion de Identificacion\obj\Release\OptiConfig.exe.manifest
-C:\Users\JSEGOVIAGA\Desktop\Visual\Studio Pro\Aplicacion de Identificacion\Aplicacion de Identificacion\obj\Release\OptiConfig.application
+C:\Users\JSEGOVIAGA\Desktop\Visual\Studio Pro\Aplicacion de Identificacion\Aplicacion de Identificacion\obj\Release\ScanFrame.exe.manifest
+C:\Users\JSEGOVIAGA\Desktop\Visual\Studio Pro\Aplicacion de Identificacion\Aplicacion de Identificacion\obj\Release\ScanFrame.application
 C:\Users\JSEGOVIAGA\Desktop\Visual\Studio Pro\Aplicacion de Identificacion\Aplicacion de Identificacion\obj\Release\Aplicaci.A963D069.Up2Date
-C:\Users\JSEGOVIAGA\Desktop\Visual\Studio Pro\Aplicacion de Identificacion\Aplicacion de Identificacion\obj\Release\OptiConfig.exe
-C:\Users\JSEGOVIAGA\Desktop\Visual\Studio Pro\Aplicacion de Identificacion\Aplicacion de Identificacion\obj\Release\OptiConfig.pdb
-C:\Users\JSEGOVIAGA\Desktop\Visual\Studio Pro\Aplicacion de Identificacion\Aplicacion de Identificacion\obj\Release\OptiConfig.exe.config
+C:\Users\JSEGOVIAGA\Desktop\Visual\Studio Pro\Aplicacion de Identificacion\Aplicacion de Identificacion\obj\Release\ScanFrame.exe
+C:\Users\JSEGOVIAGA\Desktop\Visual\Studio Pro\Aplicacion de Identificacion\Aplicacion de Identificacion\obj\Release\ScanFrame.pdb
+C:\Users\JSEGOVIAGA\Desktop\Visual\Studio Pro\Aplicacion de Identificacion\Aplicacion de Identificacion\obj\Release\ScanFrame.exe.config

@@ -155,7 +155,7 @@ namespace Aplicacion_de_Identificacion.Properties {
         /// </summary>
         internal static System.Drawing.Bitmap Spool_FL {
             get {
-                object obj = ResourceManager.GetObject("Spool FL", resourceCulture);
+                object obj = ResourceManager.GetObject("Spool_FL", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -165,7 +165,7 @@ namespace Aplicacion_de_Identificacion.Properties {
         /// </summary>
         internal static System.Drawing.Bitmap Spool_FR {
             get {
-                object obj = ResourceManager.GetObject("Spool FR", resourceCulture);
+                object obj = ResourceManager.GetObject("Spool_FR", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

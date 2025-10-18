@@ -60,16 +60,16 @@
             // BoxImage
             // 
             this.BoxImage.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.BoxImage.Location = new System.Drawing.Point(25, 123);
+            this.BoxImage.Location = new System.Drawing.Point(14, 123);
             this.BoxImage.Name = "BoxImage";
-            this.BoxImage.Size = new System.Drawing.Size(939, 549);
+            this.BoxImage.Size = new System.Drawing.Size(1000, 570);
             this.BoxImage.TabIndex = 2;
             this.BoxImage.TabStop = false;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(72, 33);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(143, 23);
@@ -79,18 +79,19 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(338, 32);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(169, 23);
+            this.label2.Size = new System.Drawing.Size(168, 23);
             this.label2.TabIndex = 4;
             this.label2.Text = "Numero de Material:";
             // 
             // PicBoxLogo
             // 
-            this.PicBoxLogo.Location = new System.Drawing.Point(769, 12);
+//            this.PicBoxLogo.InitialImage = global::Aplicacion_de_Identificacion.Properties.Resources.Commscope_Logo_2011;
+            this.PicBoxLogo.Location = new System.Drawing.Point(884, 12);
             this.PicBoxLogo.Name = "PicBoxLogo";
-            this.PicBoxLogo.Size = new System.Drawing.Size(229, 50);
+            this.PicBoxLogo.Size = new System.Drawing.Size(130, 30);
             this.PicBoxLogo.TabIndex = 5;
             this.PicBoxLogo.TabStop = false;
             // 
@@ -98,7 +99,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1010, 716);
+            this.ClientSize = new System.Drawing.Size(1032, 733);
             this.Controls.Add(this.PicBoxLogo);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);

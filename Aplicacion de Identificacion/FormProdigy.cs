@@ -22,6 +22,8 @@ namespace Aplicacion_de_Identificacion
         private void FormProdigy_Load(object sender, EventArgs e)
         {
             PicBoxLogo.Image = Properties.Resources.Commscope_Logo_2011;
+            PicBoxLogo.SizeMode = PictureBoxSizeMode.StretchImage;
+
             PicBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             PicBox2.SizeMode = PictureBoxSizeMode.StretchImage;
             PicBox3.SizeMode = PictureBoxSizeMode.StretchImage;

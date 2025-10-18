@@ -45,7 +45,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(52, 30);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(143, 23);
@@ -55,10 +55,10 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(271, 30);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(169, 23);
+            this.label2.Size = new System.Drawing.Size(168, 23);
             this.label2.TabIndex = 1;
             this.label2.Text = "Numero de Material:";
             // 
@@ -91,9 +91,9 @@
             // 
             // PicBoxLogo
             // 
-            this.PicBoxLogo.Location = new System.Drawing.Point(729, 12);
+            this.PicBoxLogo.Location = new System.Drawing.Point(844, 12);
             this.PicBoxLogo.Name = "PicBoxLogo";
-            this.PicBoxLogo.Size = new System.Drawing.Size(229, 50);
+            this.PicBoxLogo.Size = new System.Drawing.Size(130, 30);
             this.PicBoxLogo.TabIndex = 6;
             this.PicBoxLogo.TabStop = false;
             // 

@@ -24,6 +24,7 @@ namespace Aplicacion_de_Identificacion
 
         private void BtnAppRegistro_Click(object sender, EventArgs e)
         {
+            this.Hide();
             FormRegistro formRegistro = new FormRegistro();
             formRegistro.FormClosed += (s, args) => this.Show();
             formRegistro.Show();
@@ -31,6 +32,7 @@ namespace Aplicacion_de_Identificacion
 
         private void BtnAppProdigy_Click(object sender, EventArgs e)
         {
+            this.Hide();
             FormProdigy formProdigy = new FormProdigy();
             formProdigy.FormClosed += (s, args) => this.Show();
             formProdigy.Show();
